@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|h:\\masterpol \u2014 \u043A\u043E\u043F\u0438\u044F\\masterpol\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\masterpol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\masterpol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\masterpol\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\masterpol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\masterpol\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524E8FE6-8644-4629-B197-7C754C9A6597}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\MainForm.cs",
+              "RelativeDocumentMoniker": "MasterPol\\MainForm.cs",
+              "ToolTip": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MasterPol\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:22:33.614Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasterPol\\LoginForm.Designer.cs",
+              "ToolTip": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\LoginForm.Designer.cs",
+              "RelativeToolTip": "MasterPol\\LoginForm.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:01:33.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MasterPol\\LoginForm.cs",
+              "ToolTip": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\LoginForm.cs",
+              "RelativeToolTip": "MasterPol\\LoginForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:00:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MasterPol\\LoginForm.cs",
+              "ToolTip": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MasterPol\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:00:45.833Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\App.config",
+              "RelativeDocumentMoniker": "MasterPol\\App.config",
+              "ToolTip": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\App.config",
+              "RelativeToolTip": "MasterPol\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-22T11:55:05.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "MasterPol\\CurrentUser.cs",
+              "ToolTip": "H:\\MasterPol \u2014 \u043A\u043E\u043F\u0438\u044F\\MasterPol\\CurrentUser.cs",
+              "RelativeToolTip": "MasterPol\\CurrentUser.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:51:54.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

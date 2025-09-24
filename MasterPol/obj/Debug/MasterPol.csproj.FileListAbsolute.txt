@@ -1,0 +1,32 @@
+H:\MasterPol\MasterPol\bin\Debug\MasterPol.exe.config
+H:\MasterPol\MasterPol\bin\Debug\MasterPol.exe
+H:\MasterPol\MasterPol\bin\Debug\MasterPol.pdb
+H:\MasterPol\MasterPol\obj\Debug\MasterPol.csproj.AssemblyReference.cache
+H:\MasterPol\MasterPol\obj\Debug\MasterPol.Form1.resources
+H:\MasterPol\MasterPol\obj\Debug\MasterPol.Properties.Resources.resources
+H:\MasterPol\MasterPol\obj\Debug\MasterPol.csproj.GenerateResource.cache
+H:\MasterPol\MasterPol\obj\Debug\MasterPol.csproj.CoreCompileInputs.cache
+H:\MasterPol\MasterPol\obj\Debug\MasterPol.exe
+H:\MasterPol\MasterPol\obj\Debug\MasterPol.pdb
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.csproj.AssemblyReference.cache
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.LoginForm.resources
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.MainForm.resources
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.Properties.Resources.resources
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.csproj.GenerateResource.cache
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.csproj.CoreCompileInputs.cache
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.exe
+H:\MasterPol — копия\MasterPol\obj\Debug\MasterPol.pdb
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.csproj.AssemblyReference.cache
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.exe
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.pdb
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.LoginForm.resources
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.Properties.Resources.resources
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.csproj.GenerateResource.cache
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\bin\Debug\MasterPol.exe.config
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\bin\Debug\MasterPol.exe
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\bin\Debug\MasterPol.pdb
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.MainForm.resources
+C:\Учёба\УП\MasterPol — копия\MasterPol — копия\MasterPol\obj\Debug\MasterPol.csproj.CoreCompileInputs.cache
+H:\MasterPol — копия\MasterPol\bin\Debug\MasterPol.exe.config
+H:\MasterPol — копия\MasterPol\bin\Debug\MasterPol.exe
+H:\MasterPol — копия\MasterPol\bin\Debug\MasterPol.pdb
